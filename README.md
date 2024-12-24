@@ -2,7 +2,7 @@
 
 Sou Cientista de Dados, com conhecimento em Python, Pandas, Matplotlib, Linux Básico, Análise e Desenvolvimento de Sistemas e Redes de Computadores
 
-Acho incrível a maneira que a tecnologia pode influenciar positivamente a vida das pessoas.
+Acredito no poder transformador da tecnologia e como ela pode influenciar positivamente a vida das pessoas.
 Gosto de me envolver em projetos colaborativos superando expectativas, entregando resultados de alto nivel.
 
 <div style="display: inline-block"> 
